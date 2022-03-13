@@ -1,0 +1,22 @@
+.header-container {
+  height: 60px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 3rem;
+  border-bottom: solid 1px #145434;
+  color: #145434;
+  position: fixed;
+  z-index: 9999;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #ffeedf;
+}
+
+.logo {
+  font-size: 36px;
+}
