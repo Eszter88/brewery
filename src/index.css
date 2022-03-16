@@ -3,6 +3,10 @@
   padding: 0;
   box-sizing: border-box;
 }
+:root {
+  --primary: #ffeedf;
+  --secondary: #145434;
+}
 
 body {
   margin: 0;
